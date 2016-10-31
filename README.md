@@ -5,7 +5,6 @@
 	pip install qiniu
 	pip install requests
 	pip install pyperclip
-	
 	brew intsall pngpaste//没安装brew的面壁思过去，安装方法不教
 
 配置
@@ -14,16 +13,9 @@
 
 配置参数在ipic的第二个RunScript中
 
-总共有五个参数需要填写
+总共有四个参数需要填写
 
-image_store 图片储存路径，别担心你的mac的存储空间，会删除的
-
-
-比如你要存在Desktop上，务必填写绝对路径
-
-/Users/komgminhao/Desktop/ 
-
-记得加最后一个'/'哦
+你也可以不用填写，直接用我的，我觉得也不会出什么问题，10G应该够用了吧。
 
 ![](http://ofqm89vhw.bkt.clouddn.com/98d910cba71fa46a5cd5d119049b0f20.png)
 
