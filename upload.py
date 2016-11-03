@@ -11,7 +11,7 @@ def md5(str):
     m.update(str)
     return m.hexdigest()
 
-print
+
 #需要填写你的 Access Key 和 Secret Key,图片储存路径,填写绝对路径,domain七牛云上能看到
 image_store='/Users/komgminhao/.image/'
 access_key = 'rhMMU4x4W4mmZoGrzryE9pnOVOilQ1euXd8M_JEi'
