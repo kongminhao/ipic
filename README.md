@@ -1,5 +1,7 @@
 # ipic翻版使用说明
 
+作用:将png截图通过快捷键command+u上传到七牛云存储，并返回一个markdown格式的链接，可以直接复制到mou等markdown编辑器中。
+
 依赖库有点多，自行安装
 	
 	pip install qiniu
