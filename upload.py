@@ -25,7 +25,7 @@ q = Auth(access_key, secret_key)
 local_time = str(time.time())
 key = md5(local_time)
 key = key+'.png'
-os.system("/usr/loacl/bin/pngpaste "+image_store+key)
+os.system("/usr/local/bin/pngpaste "+image_store+key)
 #生成上传 Token，可以指定过期时间等
 token = q.upload_token(bucket_name, key, 3600)
 

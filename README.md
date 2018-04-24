@@ -7,7 +7,7 @@
 	pip install qiniu
 	pip install requests
 	pip install pyperclip
-	brew intsall pngpaste//没安装brew的面壁思过去，安装方法不教
+	brew install pngpaste//没安装brew的面壁思过去，安装方法不教
 
 配置
 
